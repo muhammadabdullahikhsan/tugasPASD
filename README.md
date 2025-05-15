@@ -1,4 +1,4 @@
-📚 Aplikasi Rekomendasi Buku - Streamlit
+##📚 Aplikasi Rekomendasi Buku - Streamlit
 
 Aplikasi ini adalah sistem rekomendasi buku berbasis Streamlit yang memungkinkan pengguna untuk melihat, menambahkan, menandai, mencari, dan mendapatkan rekomendasi buku berdasarkan kategori atau judul. Aplikasi ini juga menyimpan informasi pengguna dan statistik bacaan.
 
