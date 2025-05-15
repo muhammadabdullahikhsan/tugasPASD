@@ -24,40 +24,25 @@ Aplikasi ini adalah sistem rekomendasi buku berbasis Streamlit yang memungkinkan
 🗂 Struktur Data
 📘 Dataset Buku (CSV)
 File buku disimpan di path:
-
-swift
-Copy
-Edit
 C:/Users/ASUS/Downloads/data_tubes_fix_fix1.csv
+
 Kolom-kolom penting:
-
-category: Kategori buku
-
-title: Judul buku
-
-rating: Rating buku (0.0 - 5.0)
-
-read: Status dibaca (True/False)
+1.category: Kategori buku
+2.title: Judul buku
+3.rating: Rating buku (0.0 - 5.0)
+4.read: Status dibaca (True/False)
 
 👥 Data Pengguna
 Data pengguna disimpan dalam file users.csv dengan kolom:
-
-Nama
-
-Umur
+1.Nama
+2.Umur
 
 💻 Cara Menjalankan
 Pastikan Anda telah menginstal Streamlit:
 
-bash
-Copy
-Edit
 pip install streamlit pandas
 Jalankan aplikasi:
 
-bash
-Copy
-Edit
 streamlit run nama_file.py
 Gantilah nama_file.py dengan nama file Python Anda.
 
